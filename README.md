@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1200px-Globe_icon.svg.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="http://cdn.onlinewebfonts.com/svg/img_24593.png" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://gaiiff.com/wp-content/uploads/2019/07/cropped-globe-icon.png" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" />][linkedin]
 
 <br />
 
