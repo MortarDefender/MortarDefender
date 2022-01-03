@@ -1,6 +1,6 @@
 ### Hi there, I'm Tamir Sror 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mortardefender.github.io/TamirSror.github.io/)
+<!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mortardefender.github.io/TamirSror.github.io/)-->
 
 
 <!-- ## I'm a Developer -->
