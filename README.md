@@ -7,7 +7,6 @@
 ## I'm a 3rd year Computer Science Student and a software developer
 
 - 🌱 I’m currently learning ML, Pytorch and Tensorflow
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
